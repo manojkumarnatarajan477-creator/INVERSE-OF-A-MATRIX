@@ -18,7 +18,10 @@ inverse = np.linalg.inv(A)
 print(inverse)
 ```
 ## Output:
-![OUTPUT](mathsforai ex-3.png)
+
+![alt text](<mathsforai ex-3.png>)
+
+
 ## Result:
 Thus the inverse of given matrix is successfully solved using python program
 
